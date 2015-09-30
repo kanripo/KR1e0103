@@ -1,13 +1,16 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋簡書刊誤
-#+DATE: 2015-09-23 09:40:35
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:17:05.278342
+#+PROPERTY: ID KR1e0103
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN [卷一]目錄
 <pb:KR1e0103_WYG_001-1a>¶
 欽定四庫全書¶
 　春秋簡書刋誤目錄¶
 　　卷一¶
 　　　隱公十六條　　　　桓公十六條¶
 　　　莊公二十八條¶
+#+PROPERTY: JUAN 卷一
 <pb:KR1e0103_WYG_001-2a>¶
 欽定四庫全書¶
 　春秋簡書刋誤卷一¶
@@ -422,4 +425,3 @@
 　¶
 　¶
 　春秋簡書刋誤卷一¶
-
